@@ -1,6 +1,6 @@
 # Find-Something-In-Big-Documents
 
-In this homework, we are going to indentify the top-*N* most frequent @mention and #hashtag entities. 
+We are going to indentify the top-*N* most frequent @mention and #hashtag entities. 
 The dataset contains 20 million Turkish Tweets and can be downloded from [here](http://www.kemik.yildiz.edu.tr/data/File/20milyontweet.rar).
 
 Your project **must** be a valid maven project. `mvn clean package` must produce an executable jar file named **trending.jar** under the target directory.
